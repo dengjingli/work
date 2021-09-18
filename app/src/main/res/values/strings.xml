@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">work</string>
+    <string name="wish">happy birthday</string>
+    <string name="author">41810086 dengjingli</string>
+    <string name="title">Welcome</string>
+    <string name="id">stu_id</string>
+    <string name="psw">password</string>
+    <string name="tip1">418xxxxx</string>
+    <string name="tip2">Input your psw</string>
+    <string name="btw">login</string>
+    <string name="result">result</string>
+</resources>
